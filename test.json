@@ -1,0 +1,30 @@
+{
+  "SmsMessageSid": "SMff9749cb5d9985e79bc8bcb1cad85ba3",
+  "NumMedia": "0",
+  "ProfileName": "Alonso Mori",
+  "SmsSid": "SMff9749cb5d9985e79bc8bcb1cad85ba3",
+  "WaId": "51960446246",
+  "SmsStatus": "received",
+  "Body": "Hola test",
+  "To": "whatsapp:+14155238886",
+  "NumSegments": "1",
+  "MessageSid": "SMff9749cb5d9985e79bc8bcb1cad85ba3",
+  "AccountSid": "AC995f852d0d2259fb514ce69b6b487c9b",
+  "From": "whatsapp:+51960446246",
+  "ApiVersion": "2010-04-01"
+},
+{
+  "SmsMessageSid": "SM40534a961259504a2deae68c074d5bbc",
+  "NumMedia": "0",
+  "ProfileName": "Alonso Mori",
+  "SmsSid": "SM40534a961259504a2deae68c074d5bbc",
+  "WaId": "51960446246",
+  "SmsStatus": "received",
+  "Body": "sale vale GAAAAAAAA",
+  "To": "whatsapp:+14155238886",
+  "NumSegments": "1",
+  "MessageSid": "SM40534a961259504a2deae68c074d5bbc",
+  "AccountSid": "AC995f852d0d2259fb514ce69b6b487c9b",
+  "From": "whatsapp:+51960446246",
+  "ApiVersion": "2010-04-01"
+}
